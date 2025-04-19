@@ -7,7 +7,7 @@
 
 - 👯 Also working with my team on [Learning Lua](http://learn.sayzx.fr/)
 
-- 👨‍💻 All of my projects are available at [smolae.fr](smolae.fr)
+- 👨‍💻 All of my projects are available at [smolae.fr](https://www.smolae.fr/)
 
 - 💬 Ask me about **anything you want !**
 
