@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smolae/Laedev</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on many clients and personnal projects (https://github.com/Smolaae/portfolio)
+- 🔭 I’m currently working on many clients and personnal projects
 
 - 🌱 I’m currently learning **Frameworks like React and Angular**
 
