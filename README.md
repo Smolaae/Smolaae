@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks like React and Angular**
 
-- 👯 Also working with my team on [Learning Lua](http://learn.sayzx.fr/)
+- 👯 Also working with my team on [HomeGuardian]
 
 - 👨‍💻 All of my projects are available at [smolae.fr](https://www.smolae.fr/)
 
